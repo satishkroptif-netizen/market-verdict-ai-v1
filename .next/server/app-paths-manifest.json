@@ -1,0 +1,4 @@
+{
+  "/page": "app/page.js",
+  "/api/fear-greed/route": "app/api/fear-greed/route.js"
+}
